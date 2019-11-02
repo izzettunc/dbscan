@@ -110,9 +110,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/izzettunc/dbscan.svg?style=flat-square
 [issues-url]: https://github.com/izzettunc/dbscan/issues
 [license-shield]: https://img.shields.io/github/license/izzettunc/dbscan.svg?style=flat-square
-[license-url]: https://github.com/izzettunc/dbscan/blob/master/LICENSE.txt
+[license-url]: https://github.com/izzettunc/dbscan/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/izzettunc
+[linkedin-url]: https://www.linkedin.com/in/izzettunc
 [product-screenshot]: data/screenshots/dbscan.png
 [app-screenshot]: data/screenshots/application.png
 [result-screenshot]: data/screenshots/result_file.png
