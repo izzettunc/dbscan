@@ -1,13 +1,3 @@
-<p align="center">
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
 
@@ -96,17 +86,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 İzzet Tunç - izzet.tunc1997@gmail.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/izzettunc/dbscan.svg?style=flat-square
-[forks-url]: https://github.com/izzettunc/dbscan/network/members
-[stars-shield]: https://img.shields.io/github/stars/izzettunc/dbscan.svg?style=flat-square
-[stars-url]: https://github.com/izzettunc/dbscan/stargazers
-[issues-shield]: https://img.shields.io/github/issues/izzettunc/dbscan.svg?style=flat-square
-[issues-url]: https://github.com/izzettunc/dbscan/issues
-[license-shield]: https://img.shields.io/github/license/izzettunc/dbscan.svg?style=flat-square
-[license-url]: https://github.com/izzettunc/dbscan/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/izzettunc
 [product-screenshot]: data/screenshots/dbscan.png
