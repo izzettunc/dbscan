@@ -19,12 +19,12 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-
-<!--    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·-->
     <a href="https://github.com/izzettunc/dbscan/issues">Report Bug</a>
     ·
     <a href="https://github.com/izzettunc/dbscan/issues">Request Feature</a>
+<!--    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·-->
+
   </p>
 </p>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/izzettunc/dbscan/blob/master/data/screenshots/dbscan.png)
+[![Product Name Screen Shot][product-screenshot]]
 
 This project made as a class assignment.It's purpose basically clustering unlabeled data using Dbscan algorithm.
 
@@ -85,9 +85,9 @@ git clone https://github.com/izzettunc/dbscan.git
 
 Application made in turkish which is my mother tongue.So here is some unneeded screenshots for how to use it
 
-[![Application Screen Shot][app-screenshot]](https://github.com/izzettunc/dbscan/blob/master/data/screenshots/application.png)
+[![Application Screen Shot][app-screenshot]]
 
-[![Result File Screen Shot][result-screenshot]](https://github.com/izzettunc/dbscan/blob/master/data/screenshots/result_file.png)
+[![Result File Screen Shot][result-screenshot]]
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -118,4 +118,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: data/screenshots/dbscan.png
+[app-screenshot]: data/screenshots/application.png
+[result-screenshot]: data/screenshots/result_file.png
