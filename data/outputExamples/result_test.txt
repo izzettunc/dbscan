@@ -1,0 +1,309 @@
+Kayıt 1:	Küme 1
+Kayıt 2:	Küme 1
+Kayıt 3:	Küme 1
+Kayıt 4:	Küme 1
+Kayıt 5:	Küme 1
+Kayıt 6:	Küme 1
+Kayıt 7:	Küme 1
+Kayıt 8:	Küme 1
+Kayıt 9:	Küme 1
+Kayıt 10:	Küme 1
+Kayıt 11:	Küme 1
+Kayıt 12:	Küme 1
+Kayıt 13:	Küme 1
+Kayıt 14:	Küme 1
+Kayıt 15:	Küme 1
+Kayıt 16:	Küme 1
+Kayıt 17:	Küme 1
+Kayıt 18:	Küme 1
+Kayıt 19:	Küme 1
+Kayıt 20:	Küme 1
+Kayıt 21:	Küme 1
+Kayıt 22:	Küme 1
+Kayıt 23:	Küme 1
+Kayıt 24:	Küme 1
+Kayıt 25:	Küme 1
+Kayıt 26:	Küme 1
+Kayıt 27:	Küme 1
+Kayıt 28:	Küme 1
+Kayıt 29:	Küme 1
+Kayıt 30:	Küme 1
+Kayıt 31:	Küme 1
+Kayıt 32:	Küme 1
+Kayıt 33:	Küme 1
+Kayıt 34:	Küme 1
+Kayıt 35:	Küme 1
+Kayıt 36:	Küme 1
+Kayıt 37:	Küme 1
+Kayıt 38:	Küme 1
+Kayıt 39:	Küme 1
+Kayıt 40:	Küme 1
+Kayıt 41:	Küme 1
+Kayıt 42:	Küme 1
+Kayıt 43:	Küme 1
+Kayıt 44:	Küme 1
+Kayıt 45:	Küme 1
+Kayıt 46:	Küme 1
+Kayıt 47:	Küme 1
+Kayıt 48:	Küme 1
+Kayıt 49:	Küme 1
+Kayıt 50:	Küme 1
+Kayıt 51:	Küme 1
+Kayıt 52:	Küme 1
+Kayıt 53:	Küme 1
+Kayıt 54:	Küme 1
+Kayıt 55:	Küme 1
+Kayıt 56:	Küme 1
+Kayıt 57:	Küme 1
+Kayıt 58:	Küme 1
+Kayıt 59:	Küme 1
+Kayıt 60:	Küme 1
+Kayıt 61:	Küme 1
+Kayıt 62:	Küme 1
+Kayıt 63:	Küme 1
+Kayıt 64:	Küme 1
+Kayıt 65:	Küme 1
+Kayıt 66:	Küme 1
+Kayıt 67:	Küme 1
+Kayıt 68:	Küme 1
+Kayıt 69:	Küme 1
+Kayıt 70:	Küme 1
+Kayıt 71:	Küme 1
+Kayıt 72:	Küme 1
+Kayıt 73:	Küme 1
+Kayıt 74:	Küme 1
+Kayıt 75:	Küme 1
+Kayıt 76:	Küme 1
+Kayıt 77:	Küme 1
+Kayıt 78:	Küme 1
+Kayıt 79:	Küme 1
+Kayıt 80:	Küme 1
+Kayıt 81:	Küme 1
+Kayıt 82:	Küme 1
+Kayıt 83:	Küme 1
+Kayıt 84:	Küme 1
+Kayıt 85:	Küme 1
+Kayıt 86:	Küme 1
+Kayıt 87:	Küme 1
+Kayıt 88:	Küme 1
+Kayıt 89:	Küme 1
+Kayıt 90:	Küme 1
+Kayıt 91:	Küme 1
+Kayıt 92:	Küme 1
+Kayıt 93:	Küme 1
+Kayıt 94:	Küme 1
+Kayıt 95:	Küme 1
+Kayıt 96:	Küme 1
+Kayıt 97:	Küme 1
+Kayıt 98:	Küme 1
+Kayıt 99:	Küme 1
+Kayıt 100:	Küme 1
+Kayıt 101:	Küme 1
+Kayıt 102:	Küme 1
+Kayıt 103:	Küme 1
+Kayıt 104:	Küme 1
+Kayıt 105:	Küme 1
+Kayıt 106:	Küme 1
+Kayıt 107:	Küme 1
+Kayıt 108:	Küme 1
+Kayıt 109:	Küme 1
+Kayıt 110:	Küme 1
+Kayıt 111:	Küme 1
+Kayıt 112:	Küme 1
+Kayıt 113:	Küme 1
+Kayıt 114:	Küme 1
+Kayıt 115:	Küme 1
+Kayıt 116:	Küme 1
+Kayıt 117:	Küme 1
+Kayıt 118:	Küme 1
+Kayıt 119:	Küme 1
+Kayıt 120:	Küme 1
+Kayıt 121:	Küme 1
+Kayıt 122:	Küme 1
+Kayıt 123:	Küme 1
+Kayıt 124:	Küme 2
+Kayıt 125:	Küme 2
+Kayıt 126:	Küme 2
+Kayıt 127:	Küme 2
+Kayıt 128:	Küme 2
+Kayıt 129:	Küme 2
+Kayıt 130:	Küme 2
+Kayıt 131:	Küme 2
+Kayıt 132:	Küme 2
+Kayıt 133:	Küme 2
+Kayıt 134:	Küme 2
+Kayıt 135:	Küme 2
+Kayıt 136:	Küme 2
+Kayıt 137:	Küme 2
+Kayıt 138:	Küme 2
+Kayıt 139:	Küme 2
+Kayıt 140:	Küme 2
+Kayıt 141:	Küme 2
+Kayıt 142:	Küme 2
+Kayıt 143:	Küme 2
+Kayıt 144:	Küme 2
+Kayıt 145:	Küme 2
+Kayıt 146:	Küme 2
+Kayıt 147:	Küme 2
+Kayıt 148:	Küme 2
+Kayıt 149:	Küme 2
+Kayıt 150:	Küme 2
+Kayıt 151:	Küme 2
+Kayıt 152:	Küme 2
+Kayıt 153:	Küme 2
+Kayıt 154:	Küme 2
+Kayıt 155:	Küme 2
+Kayıt 156:	Küme 2
+Kayıt 157:	Küme 2
+Kayıt 158:	Küme 2
+Kayıt 159:	Küme 2
+Kayıt 160:	Küme 2
+Kayıt 161:	Küme 2
+Kayıt 162:	Küme 2
+Kayıt 163:	Küme 2
+Kayıt 164:	Küme 2
+Kayıt 165:	Küme 2
+Kayıt 166:	Küme 2
+Kayıt 167:	Küme 2
+Kayıt 168:	Küme 2
+Kayıt 169:	Küme 2
+Kayıt 170:	Küme 2
+Kayıt 171:	Küme 2
+Kayıt 172:	Küme 2
+Kayıt 173:	Küme 2
+Kayıt 174:	Küme 2
+Kayıt 175:	Küme 2
+Kayıt 176:	Küme 2
+Kayıt 177:	Küme 2
+Kayıt 178:	Küme 2
+Kayıt 179:	Küme 2
+Kayıt 180:	Küme 2
+Kayıt 181:	Küme 2
+Kayıt 182:	Küme 2
+Kayıt 183:	Küme 2
+Kayıt 184:	Küme 2
+Kayıt 185:	Küme 2
+Kayıt 186:	Küme 2
+Kayıt 187:	Küme 2
+Kayıt 188:	Küme 2
+Kayıt 189:	Küme 2
+Kayıt 190:	Küme 2
+Kayıt 191:	Küme 2
+Kayıt 192:	Küme 2
+Kayıt 193:	Küme 2
+Kayıt 194:	Küme 2
+Kayıt 195:	Küme 2
+Kayıt 196:	Küme 2
+Kayıt 197:	Küme 2
+Kayıt 198:	Küme 2
+Kayıt 199:	Küme 2
+Kayıt 200:	Küme 2
+Kayıt 201:	Küme 2
+Kayıt 202:	Küme 2
+Kayıt 203:	Küme 2
+Kayıt 204:	Küme 2
+Kayıt 205:	Küme 2
+Kayıt 206:	Küme 2
+Kayıt 207:	Küme 2
+Kayıt 208:	Küme 2
+Kayıt 209:	Küme 2
+Kayıt 210:	Küme 2
+Kayıt 211:	Küme 2
+Kayıt 212:	Küme 2
+Kayıt 213:	Küme 2
+Kayıt 214:	Küme 2
+Kayıt 215:	Küme 2
+Kayıt 216:	Küme 2
+Kayıt 217:	Küme 2
+Kayıt 218:	Küme 2
+Kayıt 219:	Küme 2
+Kayıt 220:	Küme 2
+Kayıt 221:	Küme 2
+Kayıt 222:	Küme 2
+Kayıt 223:	Küme 2
+Kayıt 224:	Küme 2
+Kayıt 225:	Küme 2
+Kayıt 226:	Küme 2
+Kayıt 227:	Küme 2
+Kayıt 228:	Küme 2
+Kayıt 229:	Küme 2
+Kayıt 230:	Küme 2
+Kayıt 231:	Küme 2
+Kayıt 232:	Küme 2
+Kayıt 233:	Küme 2
+Kayıt 234:	Küme 2
+Kayıt 235:	Küme 2
+Kayıt 236:	Küme 2
+Kayıt 237:	Küme 2
+Kayıt 238:	Küme 2
+Kayıt 239:	Küme 2
+Kayıt 240:	Küme 2
+Kayıt 241:	Küme 2
+Kayıt 242:	Küme 2
+Kayıt 243:	Küme 2
+Kayıt 244:	Küme 2
+Kayıt 245:	Küme 2
+Kayıt 246:	Küme 2
+Kayıt 247:	Küme 2
+Kayıt 248:	Küme 2
+Kayıt 249:	Küme 2
+Kayıt 250:	Küme 2
+Kayıt 251:	Küme 2
+Kayıt 252:	Küme 2
+Kayıt 253:	Küme 2
+Kayıt 254:	Küme 2
+Kayıt 255:	Küme 2
+Kayıt 256:	Küme 2
+Kayıt 257:	?
+Kayıt 258:	?
+Kayıt 259:	?
+Kayıt 260:	?
+Kayıt 261:	?
+Kayıt 262:	?
+Kayıt 263:	?
+Kayıt 264:	?
+Kayıt 265:	?
+Kayıt 266:	?
+Kayıt 267:	?
+Kayıt 268:	?
+Kayıt 269:	?
+Kayıt 270:	?
+Kayıt 271:	?
+Kayıt 272:	?
+Kayıt 273:	?
+Kayıt 274:	?
+Kayıt 275:	?
+Kayıt 276:	?
+Kayıt 277:	?
+Kayıt 278:	?
+Kayıt 279:	?
+Kayıt 280:	?
+Kayıt 281:	?
+Kayıt 282:	?
+Kayıt 283:	Küme 1
+Kayıt 284:	?
+Kayıt 285:	?
+Kayıt 286:	?
+Kayıt 287:	?
+Kayıt 288:	?
+Kayıt 289:	?
+Kayıt 290:	?
+Kayıt 291:	?
+Kayıt 292:	?
+Kayıt 293:	?
+Kayıt 294:	?
+Kayıt 295:	?
+Kayıt 296:	?
+Kayıt 297:	?
+Kayıt 298:	?
+Kayıt 299:	?
+Kayıt 300:	?
+Kayıt 301:	?
+Kayıt 302:	?
+Kayıt 303:	?
+Kayıt 304:	?
+Kayıt 305:	?
+Kayıt 306:	?
+Küme 1 : 	124 kayıt
+Küme 2 : 	133 kayıt
+Kümeye atanmayan (sapan değer) : 	49 kayıt
