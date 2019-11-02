@@ -1,9 +1,10 @@
+<p align="center">
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</p>
 
 
 <!-- PROJECT LOGO -->
@@ -15,15 +16,10 @@
   <p align="center">
     A data clustering application that uses Dbscan algorithm
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/izzettunc/dbscan/issues">Report Bug</a>
     ·
     <a href="https://github.com/izzettunc/dbscan/issues">Request Feature</a>
-<!--    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·-->
-
   </p>
 </p>
 
